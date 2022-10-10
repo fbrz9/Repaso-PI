@@ -8,6 +8,7 @@
 Construir una App utlizando React, Redux, Node y Sequelize.
 
 ## Comenzando
+Hola
 1. Forkear el repositorio para tener una copia del mismo en sus cuentas
 2. Clonar el repositorio en sus computadoras para comenzar a trabajar
 
