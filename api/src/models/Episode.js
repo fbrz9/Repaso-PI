@@ -5,5 +5,12 @@ module.exports = (sequelize) => {
   // defino el modelo
   sequelize.define('episode', {
 
+
+name:{
+  DataTypes:String
+} 
+
+
+
   })
 }
