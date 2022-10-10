@@ -13,7 +13,7 @@ asd
 1. Forkear el repositorio para tener una copia del mismo en sus cuentas
 2. Clonar el repositorio en sus computadoras para comenzar a trabajar
 
-Tendrán un boilerplate con la estructura general tanto del servidor como de cliente.
+Tendrán un boilerplate con la estructura general tantasdasdo del servidor como de cliente.
 
 ***IMPORTANTE:*** Es necesario contar minimamente con la última versión estable de Node y NPM. Asegurarse de contar con ella para poder instalar correctamente las dependecias necesarias para correr el proyecto.
 
